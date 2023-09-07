@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color: rgb(230, 230, 230);
+} 
+/* .jumbotron img {
+    border-radius: 100%;
+}
+.navbar {
+    background-color: rgb(250, 115, 115);
+}
+.col-sm-6 col-sm-offset-1 {
+
+} */
+.container {
+    text-align: center;
+} */
+
+section {
+    min-height: 300px;
+}
+/* .kontak {
+    background-color: blueviolet;
+} */
+footer{
+    background-color: #00b7ff;
+       text-align: center;
+     }
+     ul li{
+       display: inline
+     }
+     a{
+       padding: 5px;
+       text-decoration: none;
+     }
